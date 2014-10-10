@@ -17,4 +17,4 @@
 ---
 from_environment: true
 # java_opts:
-java_opts: -Djavax.net.debug=ssl:record
+# java_opts: -Djavax.net.debug=ssl:record
